@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: Some cool (Hardware) Projects that I've built
-nav: true
+nav: false
 display_categories: [misc, electronics]
 horizontal: false
 ---
