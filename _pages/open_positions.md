@@ -3,7 +3,7 @@ layout: page
 title: open positions
 description:  
 permalink: /open_positions/
-nav: true
+nav: false
 ---
 
 ### Research Fellow: Computer Vision for Agriculture
