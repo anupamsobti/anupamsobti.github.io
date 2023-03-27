@@ -6,6 +6,9 @@ permalink: /get_in_touch/
 nav: true
 ---
 
+### Open Positions
+Please see [here](/open_positions)
+
 ### Consultancy
 I am keen to collaborate with startups and industries in the healthcare and sustainability domains. I am open to 
 - Short term projects where the only input required is my time and you already have a team working on the project full time. This is best if you're stuck somewhere and would like an expert to look at the problem from fresh eyes offering expertise in computer vision, applied machine learning/deep learning or embedded systems.
