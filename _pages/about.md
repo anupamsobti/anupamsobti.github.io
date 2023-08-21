@@ -15,5 +15,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am interested in applied research problems in Healthcare and Sustainability. I have a background at the intersection of computer vision, machine learning and embedded systems. Smart sensors, assistive devices, wearable health monitoring systems, etc. require robust and latency-sensitive sensing and perception in the complex constraints of energy, form factor and business costs. Therefore, these applications require innovation across sensing techniques, perception algorithms and energy optimization techniques in both software and hardware. 
 
-I like to build systems. It is when systems are built and verified with the users that real problems are solved and the constraints and nuances of the systems come to life. I am on the lookout for industries, startups, and students for  collaboration towards these goals. If you think I can help, please [get in touch](/get_in_touch/).
+I co-lead two research groups at Plaksha University.
+1. [Geospatial Computer Vision Group](geospatial-computer-vision) The research group works on remote sensing through satellites, drone images for applications in agriculture, urban planning, etc.
+2. [Embedded Sensing and Perception Group](embedded-sensing-and-perception) The embedded devices group works on novel devices for sensing and perception in the context of agriculture (plant physiology/soil sensing) and health (medtech).
+
+I am on the lookout for industries, startups, and students for  collaboration towards these goals. If you think I can help, please [get in touch](/get_in_touch/).
 
