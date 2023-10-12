@@ -33,11 +33,12 @@ We call the people of the group GeoVisionaries :-)
 2. [Varchita Lalwani](https://www.linkedin.com/in/varchita-lalwani-1011/)
 
 ### Students
-1. Aman Sa
-2. Anshika Srivastava
-3. Yash Srivastava
-4. Prachi Parakh
-5. Vaishnavi Rathi
+1. [Aman Sa](https://www.linkedin.com/in/aman-sa/)
+2. [Anshika Srivastava](https://www.linkedin.com/in/anshika-srivastava-4b10b5215/)
+3. [Yash Srivastava](https://www.linkedin.com/in/yash-sarvesh-srivastava/)
+4. [Prachi Parakh](https://www.linkedin.com/in/prachiparakh/)
+5. [Vaishnavi Rathi](https://www.linkedin.com/in/vaishnavi-rathi3/)
+6. [Nishant Mahajan](https://www.linkedin.com/in/nishant-mahajan-57ba33197/)
 
 ### Join Us
 
