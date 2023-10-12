@@ -21,6 +21,7 @@ Systems to monitor land use, roofs, trees, lakes, etc. in cities across India (a
 
 ## Team
 
+We call the people of the group GeoVisionaries :-)
 ### Faculty 
 
 1. [Anupam Sobti](/)
@@ -32,7 +33,11 @@ Systems to monitor land use, roofs, trees, lakes, etc. in cities across India (a
 2. [Varchita Lalwani](https://www.linkedin.com/in/varchita-lalwani-1011/)
 
 ### Students
-
+1. Aman Sa
+2. Anshika Srivastava
+3. Yash Srivastava
+4. Prachi Parakh
+5. Vaishnavi Rathi
 
 ### Join Us
 
