@@ -17,7 +17,11 @@ Our current projects are in:
 Preparing systems for information aid to farmers and district level managers. We use satellite images and multispectral drones in conjuction with ground experiments.
 
 2. **Urban Planning**
-Systems to monitor land use, roofs, trees, lakes, etc. in cities across India (and eventually, the world) based on remote sensing data. We are working on various aspects including heat island modeling, tree cover tracking, etc. in urban planning. One of our current project is assessing how walkable our cities are. We are also tracking [cool roofs in Hyderabad](http://65.1.148.248:8501/).
+Systems to monitor land use, roofs, trees, lakes, etc. in cities across India (and eventually, the world) based on remote sensing data. We are working on various aspects including heat island modeling, tree cover tracking, etc. in urban planning. One of our current project is assessing how walkable our cities are. 
+
+See live demos for 
+- [Cool Roofs in Hyderabad](http://43.204.103.176:8501/).
+- [The v0 walkability index](http://43.204.103.176:8502/).
 
 ## Team
 
