@@ -11,7 +11,7 @@
   Anupam  Sobti
 
 
-  | blog
+  | A Smartphone Robot
 
 </title>
 <meta name="description" content="Personal portfolio for Anupam Sobti. Papers. Projects. Blog.
@@ -37,7 +37,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📷</text></svg>">
 
 <link rel="stylesheet" href="/assets/css/main.css">
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/projects/smartphone-robot/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -111,18 +111,14 @@
           </li>
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="/blog/">
               blog
-              
-              <span class="sr-only">(current)</span>
               
             </a>
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -212,30 +208,105 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>blog</h1>
-    <h2>A place for musings and thoughts!</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">A Smartphone Robot</h1>
+    <p class="post-description"></p>
+  </header>
 
+  <article>
+    <p>Yes ! You heard it right ! It is a robot with your smartphone mounted on it.</p>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/unblock-your-curiosity/">Unblock Your Curiosity</a></h3>
-        <p class="post-meta">April 30, 2021</p>
-        <p></p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/the-students-paradise/">The Student's paradise</a></h3>
-        <p class="post-meta">September 13, 2016</p>
-        <p></p>
-      </li>
-    
-  </ul>
+<p>Why should you do it ?</p>
 
-  
+<ol>
+  <li>
+    <p>Fun: What is cooler than using that old android phone which was not being used to make your own robot with loads of functionalities !</p>
+  </li>
+  <li>
+    <p>Learning: Learn basic robotics tasks like driving a motor and connection mechanisms, in this case, bluetooth and a little tinge of MATLAB for creating the GUI.</p>
+  </li>
+</ol>
 
+<p>It started off as a thought of making something interesting enough so that I would make sincere efforts to get it work. I identified that a robot which can be wirelessly controlled and communicate data from a set of sensors would be a good idea to work on. Over some days, as the idea matured, I decided to use a smartphone instead of using the individual sensors. Not only would using the individual sensors make the system difficult to bring up but it would cost a lot. A smartphone has a whole variety of sensors and actuators, namely mic, camera, display, speakers, accelerometer that it was perfect for the system I was trying to make. This way, we could make it compatible to anybody’s phone and make it an easy DIY project.</p>
+
+<p>Since I already had my old phone lying around, it also gave us cost efficiency. A second hand phone is worth pennies anyway, why not build an awesome robot for yourself.</p>
+
+<p>Here is the block diagram I thought of.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/smartphone-bot-comm.png" alt="" title="example image" />
+	</div>
+</div>
+<div class="caption">
+Block diagram of the system
+</div>
+
+<p>Since I already had experience with Arduino, the last two pieces were a piece of cake. Just wire things up and write the code. The challenging part was the Android Application, PC Application and the Bluetooth connectivity for the arduino to interact with the phone. I wanted the phone to be easily detachable, so I wanted to use the bluetooth only and not any other interface. A friend Ashish volunteered to join the project for the android app development. The Android application was required to relay the signals it receives over Wifi to the Arduino, so that the bot can be controlled anywhere in the house as long as it is connected to the Wifi. Here’s a link to the <a href="https://play.google.com/store/apps/details?id=com.bluetooth2" target="_blank">app</a>.</p>
+
+<p><strong>The Android Smartphone </strong> streams the video from its camera to the PC, with the help of an application called <a href="https://play.google.com/store/apps/details?id=com.pas.webcam&amp;hl=en" target="_blank">IP Webcam</a> (yes it is pretty awesome).</p>
+
+<p><strong>The PC Application </strong>developed in MATLAB using the utility GUIDE, is used to receive the video, to send the control signals back to the phone, which in-turn communicates it to the Bluetooth present on an Arduino Shield.</p>
+
+<p><a href="http://arduino.cc/" target="_blank">Arduino</a> is probably the biggest name in open source hardware. Arduino Shields are nothing but circuits stacked onto Arduino with the help of pinheads. It provides an easy to use mechanism for rapidly prototyping your circuits. Bluetooth was ordered from <a href="http://www.rhydolabz.com/index.php?main_page=product_info&amp;products_id=1159" target="_blank">here</a>.</p>
+
+<p>DC <strong>Motors</strong> were used for driving the robot, obtained from <a href="http://www.pololu.com/catalog/product/1093" target="_blank">here</a>. Yes, they are costly but they make the robot look great ! You can alternatively use cheaper motors you obtain from your local market.</p>
+
+<p>Here is the schematic diagram of the connections you will need to make.</p>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/smartphonebot-schematic.jpg" alt="" title="Schematic Diagram" />
+    </div>
+</div>
+<div class="caption">
+	Schematic Diagram of the Smartphone Bot.
+</div>
+
+<p>You can access the codes for the GUI and the code used in Arduino from <a href="https://docs.google.com/file/d/0B_5eRz5cayvXMWhESk5wbVBqX0E/edit?usp=sharing" target="_blank">here</a>.</p>
+
+<p>The initial design was something like this:</p>
+
+<div class="row justify-content-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/InitialDesign.png" alt="" title="Schematic Diagram" />
+    </div>
+</div>
+<div class="caption">
+	The initial design was more compact but not stable. 
+</div>
+
+<p>This human like bot had a great turning radius, but wasn’t very stable. The phone stand was drilled into the laser cut bottom and the arduino was mounted on the same. We decided to go with a much more aesthetically pleasing and stable bot for the final version. The design was made and laser cut. The final bot looked like this:</p>
+
+<div class="row">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/BotFinal.png" alt="" title="Final Prototype" />
+    </div>
+
+    <div class="col-sm-6 mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="/assets/img/CentreOfMass.png" alt="" title="Center of Mass" />
+    </div>
+</div>
+<div class="caption">
+	The center of mass is designed to be in the center.	
+</div>
+
+<p>Beauty! Isn’t it? 🙂</p>
+
+<p>The design was much more stable because of the weights being distributed properly. An analysis of the weight distribution is as illustrated below:</p>
+
+<p>The battery was placed below the Arduino, further stabilizing the robot. Overall, it was a fun experience. The thing that amazed me the most was that we worked on so many different platforms.</p>
+
+<ul>
+  <li>Windows – For the GUI Development</li>
+  <li>Android – For the Mobile App</li>
+  <li>Arduino – For the Embedded code/Hardware Interaction</li>
+  <li>Hardware Design – For the chassis</li>
+</ul>
+
+<p>It was a very rewarding experience for all of us, and ofcourse, the sight of our hard work was very satisfying.</p>
+
+  </article>
 
 </div>
 
