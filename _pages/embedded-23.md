@@ -25,6 +25,9 @@ The project based component of the course involved two projects - one including 
 
 I've tried my best to link directly to external sources and acknowledge any images/code used. Please write to me if you see an attribution missing.
 
+# Guests
+Thanks to [Mahadev Gopalakrishnan](https://www.linkedin.com/in/mahadevg1492/) and [Dr Siddharth](https://ssiddharth.in/) for guest lectures!
+
 # References
 - Practical Electronics for Inventors, by Paul Scherz
 - The Art of Electronics, 3rd Edition - Paul Horovitz, Winfield Hill
