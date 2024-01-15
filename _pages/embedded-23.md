@@ -14,10 +14,14 @@ We end this module with a discussion of the state of the art devices built and a
 
 The project based component of the course involved two projects - one including bare bones design with a microcontroller and the second using an ESP32 with an RTOS. The course had a weightage of 50-50% on the theory and practical components.
 
+# Lectures at a glance
+
+![Lecture Plan](../assets/img/lecture-plan-es-23.png) 
+
 # Slides
 
-- [Module 1 & 2](assets/pdf/EmbeddedSystems23_Module1_2.pdf)
-- [Module 3 & 4](assets/pdf/EmbeddedSystems23_Module3_4.pdf)
+- [Module 1 & 2](../assets/pdf/EmbeddedSystems23_Module1_2.pdf)
+- [Module 3 & 4](../assets/pdf/EmbeddedSystems23_Module3_4.pdf)
 
 I've tried my best to link directly to external sources and acknowledge any images/code used. Please write to me if you see an attribution missing.
 
