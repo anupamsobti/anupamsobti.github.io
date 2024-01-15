@@ -1,3 +1,10 @@
+---
+layout: default
+title: Embedded Systems 
+nav: false
+permalink: /embedded-systems-23/
+---
+
 The embedded systems course is designed to provide insight into how electronic products are designed and manufactured. The course is divided into 4 parts:
 - **Module 1: Power it Up**: Starting from developing a deep understanding of how power supplies are designed and used, we do bare bones chip-level design. We build microcontroller based designs on our own printed circuit boards. 
 - **Module 2: Connect it together**: We learn how to interface different types of peripherals with microcontrollers and the different types of interfaces that are used in embedded system design. We discuss both aspects - the computer architecture and the software design of the systems. We discuss the internal architecture design as well as software usage for the various modules in a microcontroller apart from the CPU - timers, interrupts, Analog to Digital Converters (ADCs). <br/>
