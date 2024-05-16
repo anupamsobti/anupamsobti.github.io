@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://plaksha.edu.in/faculty-details/dr-anupam-sobti'>Assistant Professor</a>, Plaksha University, Previously-MSR, IITD, QCOM
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am interested in applied research that drives sustainable communities by reducing the information gap among various stakeholders, e.g., information about heat islands in the city, or information about crop health to an insurance company. I use techniques from computer vision, machine learning and embedded systems to design these systems. Recent focus in the group has been using techniques in self supervised learning to build scalable and generalizable models that can be applied to areas in urban planning and agriculture.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I lead the [Geospatial Computer Vision Group](geospatial-computer-vision) at [Plaksha University](https://plaksha.edu.in), Mohali, India. Our vision is to develop state of the art geospatial intelligence for supporting domains across urban climate, agriculture, and water security. Have a look at our latest publications to know more.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am on the lookout for industries, startups, and students for  collaboration towards these goals. If you think I can help, please [get in touch](/get_in_touch/).

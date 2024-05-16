@@ -2,11 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: To teach is to learn and to see the joy of learning in others!
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+| Course | Term |
+| --- | --- |
+| Foundations of Computer Systems | Mar '23 - June '23 |
+| Embedded Systems | [Aug '23 - Dec '23](/embedded-systems-23/) |
+| Deep Learning | Jan '24 - June '24 |
