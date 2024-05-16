@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -19,4 +19,4 @@ I am interested in applied research that drives sustainable communities by reduc
 
 I lead the [Geospatial Computer Vision Group](geospatial-computer-vision) at [Plaksha University](https://plaksha.edu.in), Mohali, India. Our vision is to develop state of the art geospatial intelligence for supporting domains across urban climate, agriculture, and water security. Have a look at our latest publications to know more.
 
-I am on the lookout for industries, startups, and students for  collaboration towards these goals. If you think I can help, please [get in touch](/get_in_touch/).
+I am on the lookout for industries, startups, and students for collaboration towards these goals. If you think I can help, please [get in touch](/get_in_touch/).

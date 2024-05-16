@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Anupam
-middle_name: 
+middle_name:
 last_name: Sobti
 email: anupam.sobti@plaksha.edu.in
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -18,7 +18,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌏 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://anupamsobti.github.io # the base hostname & protocol for your site
-baseurl:   # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -108,7 +108,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-    I prefer email for contacting me.
+  I prefer email for contacting me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: blog # blog_name will be displayed in your blog page
-blog_description: a place for musings! 
+blog_description: a place for musings!
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -155,7 +155,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname:  # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.

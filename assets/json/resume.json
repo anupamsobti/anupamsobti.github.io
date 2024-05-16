@@ -104,26 +104,17 @@
     {
       "name": "Computer Vision",
       "level": "Expert",
-      "keywords": [
-        "Machine Learning", 
-        "Geospatial Computer Vision"
-      ]
+      "keywords": ["Machine Learning", "Geospatial Computer Vision"]
     },
     {
       "name": "Embedded Systems Design",
       "level": "Expert",
-      "keywords": [
-        "Sensing Perception co-design",
-        "Tiny Machine Learning"
-      ]
+      "keywords": ["Sensing Perception co-design", "Tiny Machine Learning"]
     },
     {
       "name": "Programming/Coding",
       "level": "Expert",
-      "keywords": [
-        "Python",
-        "VHDL"
-      ]
+      "keywords": ["Python", "VHDL"]
     }
   ],
   "languages": [
@@ -131,7 +122,7 @@
       "language": "English",
       "fluency": "Fluent"
     },
-   {
+    {
       "language": "Hindi",
       "fluency": "Fluent"
     }
@@ -139,20 +130,12 @@
   "interests": [
     {
       "name": "Technology",
-      "keywords": [
-        "IoT",
-        "Sustainability",
-        "Health"
-      ]
+      "keywords": ["IoT", "Sustainability", "Health"]
     },
     {
       "name": "Sports",
-      "keywords": [
-        "Cycling",
-        "Table Tennis"
-      ]
+      "keywords": ["Cycling", "Table Tennis"]
     }
   ],
-  "references": [
-  ]
+  "references": []
 }
