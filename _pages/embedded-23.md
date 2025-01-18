@@ -5,6 +5,8 @@ nav: false
 permalink: /embedded-systems-23/
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DFM2iwAj84Y?si=k7veyKD5R_sYFrDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 The embedded systems course is designed to provide insight into how electronic products are designed and manufactured. The course is divided into 4 parts:
 
 - **Module 1: Power it Up**: Starting from developing a deep understanding of how power supplies are designed and used, we do bare bones chip-level design. We build microcontroller based designs on our own printed circuit boards.
@@ -40,6 +42,3 @@ Thanks to [Mahadev Gopalakrishnan](https://www.linkedin.com/in/mahadevg1492/) an
 
 MIT
 
-# Upcoming
-
-Stay tuned for course video and student project videos!
