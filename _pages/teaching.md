@@ -11,7 +11,7 @@ nav_order: 6
 | ------------------------------- | ------------------------------------------ |
 | Foundations of Computer Systems | Mar '23 - June '23                         |
 | Embedded Systems                | [Aug '23 - Dec '23](/embedded-systems-23/) |
-| Deep Learning                   | Jan '24 - June '24                         |
-| Deep Learning                   | Aug '24 - Dec '24                          |
-| Geospatial Data Science         | Jan '25 - Jun '25                         |
-| Web Development with AI         | Jan '25 - Jun '25                         |
+| Deep Learning                   | [Jan '24 - June '24](https://anupamsobti.quarto.pub/) |
+| Deep Learning                   | [Aug '24 - Dec '24](https://anupamsobti.quarto.pub/) |
+| Geospatial Data Science         | [Jan '25 - Jun '25](/geospatial-data-science-2025/) |
+| Web Development with AI         | [Jan '25 - Jun '25](/web-development-with-ai-2025/) |
