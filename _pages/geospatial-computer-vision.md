@@ -28,8 +28,8 @@ Our current projects are in:
 
 See live demos for
 
-- [Cool Roofs in Hyderabad](http://43.204.103.176:8501/).
-- [The v0 Walkability Index](http://43.204.103.176:8502/).
+- [Cool Roofs in Hyderabad](http://43.204.96.63:8501/).
+- [The v0 Walkability Index](http://43.204.96.63:8502/).
 
 ## Team
 
