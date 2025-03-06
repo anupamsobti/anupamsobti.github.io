@@ -31,6 +31,12 @@ See live demos for
 - [Cool Roofs in Hyderabad](http://43.204.96.63:8501/).
 - [The v0 Walkability Index](http://43.204.96.63:8502/).
 
+## Sponsors
+1. [Indorama Ventures Center for Clean Energy](https://plaksha.edu.in/center-for-clean-energy), Plaksha University
+2. Center for Sustainable and Precision Agriculture, Plaksha University
+3. Plaksha University Startup Grant
+4. Google Research Cloud Credits Grant
+
 ## Team
 
 We call the people of the group GeoVisionaries :-)
@@ -47,29 +53,43 @@ We call the people of the group GeoVisionaries :-)
 
 ### Research Fellows
 
-1. [Sambal Shikhar](https://www.linkedin.com/in/sambal-shikhar-719b67148/)
-2. [Varchita Lalwani](https://www.linkedin.com/in/varchita-lalwani-1011/)
-3. Moti Rattan Gupta
+1. [Varchita Lalwani](https://www.linkedin.com/in/varchita-lalwani-1011/)
+2. Moti Rattan Gupta
+3. [Yogendra Kumar](https://www.linkedin.com/in/yogendra-kumar-00254b183/)
 
 ### Students
 
-1. [Aman Sa](https://www.linkedin.com/in/aman-sa/)
-2. [Anshika Srivastava](https://www.linkedin.com/in/anshika-srivastava-4b10b5215/)
-3. [Yash Srivastava](https://www.linkedin.com/in/yash-sarvesh-srivastava/)
-4. [Prachi Parakh](https://www.linkedin.com/in/prachiparakh/)
-5. [Vaishnavi Rathi](https://www.linkedin.com/in/vaishnavi-rathi3/)
-6. [Nishant Mahajan](https://www.linkedin.com/in/nishant-mahajan-57ba33197/)
-7. [Liza Wahi](https://www.linkedin.com/in/lizawahi/)
-8. [Amog Rao](https://www.linkedin.com/in/amog-rao/)
-9. [Pranjal Rastogi](https://www.linkedin.com/in/pranjal-rastogi-pjr/)
-10. [Arman Ghosh](https://www.linkedin.com/in/arman-ghosh-92593521a/)
-11. [Sakarth Brar](https://www.linkedin.com/in/sakarth-singh-brar-78701b262/)
-12. [Yash Sangtani](https://www.linkedin.com/in/yash-s-510764213/)
-13. [Bilawal Deu](https://www.linkedin.com/in/bilawalsinghdeu/)
-14. [Hibah Ihsan Muhammad](https://www.linkedin.com/in/hibah-ihsan-muhammad-245007262/)
-15. [Bhavi](https://www.linkedin.com/in/bhavi-28b773213/)
-16. [Anshul Rana](https://www.linkedin.com/in/anshulrana20/)
-17. [Rishi Vijaywargiya](https://www.linkedin.com/in/rishi-vijaywargiya-877042220/)
+- [Shivangi Agarwal](https://www.linkedin.com/in/shivangiag08/)
+- [Zoya Ghoshal](https://www.linkedin.com/in/zoya-ghoshal-259551268/)
+- [Chaitanya Modi](https://www.linkedin.com/in/chaitanya-modi-/)
+- [Jiya Agarwal](https://www.linkedin.com/in/jiya-agrawal-957767249/)
+- [Malhar Bhise](https://www.linkedin.com/in/malhar-bhise-539888214/)
+- [Utkarsh Agarwal](https://www.linkedin.com/in/utkarsh-agarwal984/)
+- [Abhiraaj Sharma](https://www.linkedin.com/in/abhiraaj-sharma/)
+- [Liza Wahi](https://www.linkedin.com/in/lizawahi/)
+- [Amog Rao](https://www.linkedin.com/in/amog-rao/)
+- [Pranjal Rastogi](https://www.linkedin.com/in/pranjal-rastogi-pjr/)
+- [Arman Ghosh](https://www.linkedin.com/in/arman-ghosh-92593521a/)
+- [Sakarth Brar](https://www.linkedin.com/in/sakarth-singh-brar-78701b262/)
+- [Yash Sangtani](https://www.linkedin.com/in/yash-s-510764213/)
+- [Bilawal Deu](https://www.linkedin.com/in/bilawalsinghdeu/)
+- [Hibah Ihsan Muhammad](https://www.linkedin.com/in/hibah-ihsan-muhammad-245007262/)
+- [Bhavi](https://www.linkedin.com/in/bhavi-28b773213/)
+- [Mannan Gupta](https://www.linkedin.com/in/mannan-gupta-603a72299/)
+- [Akshita Shukla](https://www.linkedin.com/in/akshitashukla393/)
+- [Prisha Gupta](https://www.linkedin.com/in/prisha-gupta-3a1090278/)
+- [Saumya](https://www.linkedin.com/in/saumyaachauhan/)
+
+### Alumni
+- [Sambal Shikhar](https://www.linkedin.com/in/sambal-shikhar-719b67148/), next: Research Staff at MBZUAI
+- [Anshika Srivastava](https://www.linkedin.com/in/anshika-srivastava-4b10b5215/)
+- [Yash Srivastava](https://www.linkedin.com/in/yash-sarvesh-srivastava/)
+- [Prachi Parakh](https://www.linkedin.com/in/prachiparakh/)
+- [Vaishnavi Rathi](https://www.linkedin.com/in/vaishnavi-rathi3/)
+- [Nishant Mahajan](https://www.linkedin.com/in/nishant-mahajan-57ba33197/)
+- [Aman Sa](https://www.linkedin.com/in/aman-sa/)
+- [Anshul Rana](https://www.linkedin.com/in/anshulrana20/)
+- [Rishi Vijaywargiya](https://www.linkedin.com/in/rishi-vijaywargiya-877042220/)
 
 ### Join Us
 
