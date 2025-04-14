@@ -11,17 +11,17 @@ Satellites provide a picture of the entire world and in this picture, it capture
 
 # Course Content
 
-Slides will be available soon.
 
 | Slides                                                                            | Topics Covered                                                |
 | --- | --------- |
 | [GeoContext](../assets/pdf/geods-slides/L2-TheGeoContext.pdf)                     | What's up in geospatial. Opportunities ahead                  |
-| [Indices](../assets/pdf/geods-slides/Indices.pdf)                                 | Geospatial indices                                            |
-| [Satellites and Instruments](../assets/pdf/geods-slides/Satellites.pdf)           | Satellites                                                    |
+| [Indices](../assets/pdf/geods-slides/Indices.pdf)                                 | Geospatial indices - physical, social                                            |
+| [Satellites and Instruments](../assets/pdf/geods-slides/Satellites.pdf)           | Satellites, different types of bands and their properties                                                    |
 | [Spatial Weights](../assets/pdf/geods-slides/Spatial_Weights.pdf)                 | Defining Neighborhoods, different types of distance functions |
 | [Spatial Statistics](../assets/pdf/geods-slides/Spatial_Statistics.pdf)           | Spatial statistics like global and local autocorrelation etc. |
-| [Spatio-temporal statistics](../assets/pdf/geods-slides/SpatioTemporal_Stats.pdf) | Spatio-temporal statistics                                    |
-| [Spatial Machine Learning](../assets/pdf/geods-slides/spatial-ml.pdf)             | Spatial Machine Learning                                      |
+| [Spatio-temporal statistics](../assets/pdf/geods-slides/SpatioTemporal_Stats.pdf) | Spatio-temporal statistics, e.g., modeling traffic data                                    |
+| [Spatial Machine Learning](../assets/pdf/geods-slides/spatial-ml.pdf)             | Spatial Machine Learning, clustering in geospatial data                                      |
+| [Geospatial Systems](../assets/pdf/geods-slides/Geospatial-systems.pdf) | Processes in Geospatial Phenomenon and ways to model them | 
 
 # Code
 
