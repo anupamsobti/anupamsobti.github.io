@@ -13,6 +13,20 @@ Satellites provide a picture of the entire world and in this picture, it capture
 
 Slides will be available soon.
 
+| Slides                                                                            | Topics Covered                                                |
+| --- | --------- |
+| [GeoContext](../assets/pdf/geods-slides/L2-TheGeoContext.pdf)                     | What's up in geospatial. Opportunities ahead                  |
+| [Indices](../assets/pdf/geods-slides/Indices.pdf)                                 | Geospatial indices                                            |
+| [Satellites and Instruments](../assets/pdf/geods-slides/Satellites.pdf)           | Satellites                                                    |
+| [Spatial Weights](../assets/pdf/geods-slides/Spatial_Weights.pdf)                 | Defining Neighborhoods, different types of distance functions |
+| [Spatial Statistics](../assets/pdf/geods-slides/Spatial_Statistics.pdf)           | Spatial statistics like global and local autocorrelation etc. |
+| [Spatio-temporal statistics](../assets/pdf/geods-slides/SpatioTemporal_Stats.pdf) | Spatio-temporal statistics                                    |
+| [Spatial Machine Learning](../assets/pdf/geods-slides/spatial-ml.pdf)             | Spatial Machine Learning                                      |
+
 # Code
 
 Please check the repo [here](https://github.com/anupamsobti/geospatial-machine-learning.git)
+
+# References
+
+[Geographic Data Science](https://geographicdata.science/book/intro.html)
