@@ -12,3 +12,5 @@ iii) We'll then include LLMs for our websites, including structured format gener
 iv) Finally, we'll touch upon agentic and RAG frameworks, building complex web apps with a mix of structured and unstructured data.
 
 The course expects you to have a working knowledge of Python.
+
+Course slides are available at [slides](../assets/pdf/WebDev_AI.pdf).
