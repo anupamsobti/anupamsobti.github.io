@@ -14,3 +14,5 @@ iv) Finally, we'll touch upon agentic and RAG frameworks, building complex web a
 The course expects you to have a working knowledge of Python.
 
 Course slides are available at [slides](../assets/pdf/WebDev_AI.pdf).
+
+The course code repository is available at [link](https://github.com/anupamsobti/web-dev-with-ai).
