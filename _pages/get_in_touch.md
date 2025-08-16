@@ -1,9 +1,10 @@
 ---
 layout: page
-title: get in touch
+title: contact
 description:
 permalink: /get_in_touch/
 nav: true
+nav_order: 8
 ---
 
 ### Open Positions

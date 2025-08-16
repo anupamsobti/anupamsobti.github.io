@@ -6,6 +6,7 @@ permalink: /open_positions/
 nav: false
 ---
 
+<!--
 ### Research Fellow: Computer Vision for Agriculture
 
 I am looking for a full time research fellow to work on satellite/drone image-based exploration in the agricultural setup of India. Please apply [here](https://forms.office.com/r/cHmwD8zQFR) if interested.
@@ -28,3 +29,7 @@ The ideal candidate should have:
 1. Completed a BTech.
 2. Built electronic systems.
 3. Interest in building machine learning algorithms for modeling physics based processes and processing temporal data.
+
+-->
+
+Sorry, currently there aren't open positions.
